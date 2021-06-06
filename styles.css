@@ -1,0 +1,41 @@
+body{
+
+
+}
+#mypic{
+     /* border:3px solid cornsilk;*/
+     
+     padding:15px 0 15px 5px ;
+}
+#welcome{
+    color: aliceblue;
+    font-family:Trattatello, fantasy;
+    text-align: center;
+    padding-top: 20px;
+}
+.col-4 , .col-6{
+    border-top: 3px solid #ffb703;
+    border-bottom: 3px solid #ffb703;
+    
+}
+
+.col-12{
+    text-align: center;
+    color: aliceblue;
+}
+
+
+
+#email ,#twitter ,#instagram{
+  
+}
+
+li{
+    color: cornsilk;
+    padding: 5px;
+    
+}
+
+#football{
+    padding:50px 0 50px 0;
+}
